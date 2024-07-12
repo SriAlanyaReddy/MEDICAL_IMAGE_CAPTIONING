@@ -16,7 +16,7 @@ const Home = () => {
         <br></br>
         <br></br>
         <Link to ="/llmmodel2">
-           <button>LLM Original</button>
+           <button>LLM </button>
         </Link>
         <br></br>
         <br></br>
